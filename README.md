@@ -88,15 +88,11 @@ Key competencies developed include:
 
 ## IAM & Cloud Security Context
 
-This environment forms the foundational compute layer supporting subsequent identity-focused labs, including Microsoft Entra ID and Azure identity and access management scenarios.
+This environment establishes the foundational compute layer for identity and access management learning paths aligned to Microsoft Entra ID and Azure-based identity services.
 
-It enables early-stage development of:
+It provides operational context for understanding how identity systems interact with underlying infrastructure, particularly in constrained or minimal compute environments similar to lightweight cloud instances.
 
-- CLI-based operational familiarity aligned with cloud environments  
-- Understanding system constraints relevant to cloud compute workloads  
-- Structured thinking required for identity and access management workflows  
-- Preparation for identity-driven security analysis in Entra ID environments  
-
+The lab supports the transition from system-level administration concepts toward identity-centric security analysis, including authentication behaviour, access control interpretation, and identity lifecycle understanding within enterprise IAM frameworks.
 ---
 
 ## Outcome
