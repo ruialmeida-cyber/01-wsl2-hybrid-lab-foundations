@@ -72,12 +72,17 @@ This mirrors operational constraints commonly found in lightweight cloud environ
 
 ## Learning Outcomes
 
-This project contributes to foundational capability in:
+Learning Outcomes
 
-- Understanding system behaviour under constrained compute resources  
-- Linux system administration using CLI-based workflows  
-- Execution and validation of security tooling in low-resource environments  
-- Building reproducible and structured lab environments  
+This project develops foundational capabilities aligned to identity and cloud security operations, particularly in preparation for IAM-focused environments such as Microsoft Entra ID.
+
+Key competencies developed include:
+
+- Understanding system behaviour under constrained compute environments relevant to cloud infrastructure
+- Operational Linux administration using CLI-based workflows
+- Execution and validation of security tooling in resource-limited environments
+- Development of structured, reproducible lab environments suitable for identity and security analysis workflows
+- Foundational thinking patterns required for identity lifecycle and access control interpretation in IAM systems
 
 ---
 
