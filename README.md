@@ -93,6 +93,7 @@ This environment establishes the foundational compute layer for identity and acc
 It provides operational context for understanding how identity systems interact with underlying infrastructure, particularly in constrained or minimal compute environments similar to lightweight cloud instances.
 
 The lab supports the transition from system-level administration concepts toward identity-centric security analysis, including authentication behaviour, access control interpretation, and identity lifecycle understanding within enterprise IAM frameworks.
+
 ---
 
 ## Outcome
