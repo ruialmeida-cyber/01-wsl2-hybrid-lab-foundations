@@ -6,11 +6,15 @@ Toshiba Legacy System Lab — Foundational Compute Environment for Cloud & Ident
 
 ## Overview
 
-This project documents the transformation of a legacy Toshiba Satellite L500 laptop into a lightweight Linux-based security environment used for foundational cybersecurity learning.
+Overview
 
-While originally initiated as a hardware recovery exercise, the scope evolved into a structured lab environment focused on building a stable, reproducible system for security tooling, system administration, and constrained compute experimentation.
+This project establishes a constrained compute environment designed to simulate foundational infrastructure conditions relevant to identity and cloud security operations.
 
-This environment serves as an early-stage foundation for later identity-focused and cloud security labs, including Microsoft Entra ID and Azure-based authentication analysis workflows.
+Originally initiated as a hardware recovery and system optimisation exercise, the environment has been repurposed into a structured security lab for developing operational familiarity with Linux systems, CLI-based administration, and security tooling under resource constraints.
+
+From an Identity and Access Management (IAM) perspective, this environment represents the foundational compute layer that supports later identity-focused analysis, including authentication workflows, role-based access control concepts, and Microsoft Entra ID–aligned identity governance scenarios.
+
+The system is used as a preparatory environment for understanding how identity, authentication, and system access behave in lightweight and constrained computing contexts similar to cloud-hosted virtual machines.
 
 ---
 
